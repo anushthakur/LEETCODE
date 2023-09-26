@@ -1,0 +1,1 @@
+//1047.Remove all adjacent duplicates in string
