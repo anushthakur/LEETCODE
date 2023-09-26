@@ -1,0 +1,40 @@
+
+Sure! Here are some basic but important questions related to palindromes, finding minimum and maximum numbers, Fibonacci sequence, prime numbers, sum of digits, greatest common divisor (GCD), and least common multiple (LCM):
+
+Palindrome:
+
+Write a program to check if a given string is a palindrome.
+Find the longest palindrome in a given string.
+Determine the number of palindromic substrings in a given string.
+Check if a given number is a palindrome.
+Finding Minimum and Maximum:
+
+Write a program to find the minimum and maximum elements in an array.
+Find the minimum and maximum values in a list of integers.
+Determine the second smallest and second largest numbers in an array.
+Fibonacci Sequence:
+
+Write a program to generate the Fibonacci sequence up to a given number.
+Find the nth number in the Fibonacci sequence.
+Determine if a given number is part of the Fibonacci sequence.
+Prime Numbers:
+
+Write a program to check if a given number is prime.
+Generate all prime numbers up to a given limit.
+Find the sum of all prime numbers within a given range.
+Sum of Digits:
+
+Write a program to calculate the sum of digits in a given number.
+Find the sum of the digits of a number until the sum is a single digit.
+Determine if a number is a Harshad number (divisible by the sum of its digits).
+Greatest Common Divisor (GCD):
+
+Write a program to find the GCD of two numbers.
+Determine if a given array of numbers has a common GCD greater than 1.
+Calculate the GCD of three or more numbers.
+Least Common Multiple (LCM):
+
+Write a program to find the LCM of two numbers.
+Determine the LCM of an array of numbers.
+Find the smallest number that is divisible by all numbers in a given range.
+These questions cover a range of basic concepts in programming and mathematics. You can use them as practice problems or as a starting point to dive deeper into these topics.

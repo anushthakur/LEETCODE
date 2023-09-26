@@ -1,0 +1,1 @@
+//2440.create components with same value
